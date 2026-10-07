@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
       - name:   java-app
-        image: fadel8/repo_1:v26
+        image: fadel8/repo_1:v18
         ports:
         - containerPort: 8090
